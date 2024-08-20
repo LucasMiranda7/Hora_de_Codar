@@ -1,5 +1,6 @@
 fun main(){
     //trápezio
+
     println("Insira a Base maior do Losango: ")
     val base_maior: Float = readln().toFloat()
 
