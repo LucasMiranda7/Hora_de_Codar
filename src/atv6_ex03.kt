@@ -1,5 +1,6 @@
 fun main(){
     //losango
+
     println("Insira a Diagonal maior do Losango: ")
     val diagonal_maior: Float = readln().toFloat()
 

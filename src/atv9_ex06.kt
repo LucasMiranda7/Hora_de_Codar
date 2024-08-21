@@ -1,6 +1,7 @@
 fun main(){
     //triângulo
 
+
     println("Insira a Base do Triângulo: ")
     val base: Float = readln().toFloat()
 
